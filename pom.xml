@@ -19,6 +19,8 @@
 					
 						
 		<munit.version>2.3.13</munit.version>
+		<sonar.organization>mybasicrepo</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
 					  
 	</properties>
 
